@@ -1,0 +1,9 @@
+[package]
+name = "dockworker-fix-example"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+dockworker = "0.5.1"
+rocket = "0.5.1"
+tokio = "1.38.1"
